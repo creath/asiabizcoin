@@ -1,0 +1,9 @@
+Building AsiaBizCoin
+
+See doc/readme-qt.rst for instructions on building AsiaBizCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AsiaBizCoin.
+
+See doc/build-*.txt for instructions on building AsiaBizCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AsiaBizCoin.
